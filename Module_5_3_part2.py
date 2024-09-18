@@ -1,3 +1,6 @@
+# Первая часть кода в Module_5_3_part1.py
+# https://github.com/Bogterr/Module_5/blob/2b895cac1dbe99664eb52b1837b8de3ee049716f/Module_5_3_part1.py
+
 from Module_5_3_part1 import *
 
 h1 = House('ЖК Эльбрус', 10)
