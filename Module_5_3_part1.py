@@ -1,5 +1,6 @@
 # Developer - не только разработчик
 # Продолжение кода Module_5_3_part2
+# https://github.com/Bogterr/Module_5/blob/4623bb1ae3b0f75f6bbc01ebfab78330519ad92a/Module_5_3_part2.py
 
 class House:
     def __init__(self, name, number_of_floors):
