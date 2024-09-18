@@ -1,4 +1,4 @@
-from house_cls import *
+from Module_5_3_part1 import *
 
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
